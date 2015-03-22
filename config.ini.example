@@ -1,6 +1,0 @@
-[global]
-env = test
-
-[test]
-hostname = localhost
-port = 12201
